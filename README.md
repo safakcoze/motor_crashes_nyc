@@ -4,9 +4,10 @@
 - [Python Libraries and Data Used](#Python-Libraries-and-Data-Used)
 - [Motor Crashes by Year and Time of Day](#Motor-Crashes-by-Year-and-Time-of-Day)
 - [Density Heatmap by Plotly](#Density-Heatmap-by-Plotly)
-- [Motor Vehicle Collisions in NYC](#Motor-Vehicle-Collisions-in-NYC)
 
 ## Introduction
+
+![Motor_Crashes](https://github.com/safakcoze/motor_crashes_nyc/assets/139701981/5bc94909-ccbe-418c-a6d4-b808f04c0a3d)
 
 **Keywords**: *Motor Crashes, New York City, Urban Transportation, Open Source Data, Python, Data Analysis*
 
@@ -39,6 +40,3 @@ List the data sets used in the notebook. Specify sources. Indicate data formats 
 
 ![plotly_hist](https://github.com/safakcoze/motor_crashes_nyc/assets/139701981/d19e9d5d-17df-483e-bd38-2c0a299c911a)
 
-## Motor Vehicle Collisions in NYC
-
-![Motor_Crashes](https://github.com/safakcoze/motor_crashes_nyc/assets/139701981/5bc94909-ccbe-418c-a6d4-b808f04c0a3d)
